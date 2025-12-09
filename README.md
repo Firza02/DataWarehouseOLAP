@@ -5,6 +5,7 @@ Sistem ini merupakan aplikasi Business Intelligence berbasis web yang memanfaatk
 Login as executive:
 
 username  : Executive
+
 passowrd  : Admin1
 
 /css               → stylesheet dan UI styling
